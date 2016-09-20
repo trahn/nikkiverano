@@ -1,8 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: woman.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Und du geniesst deinen Urlaub
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+
+Ohne tagelange Suche und Planung kannst du deinen nächsten Urlaub geniessen... <i class="fa fa-plane fa-2x" aria-hidden="true"></i>

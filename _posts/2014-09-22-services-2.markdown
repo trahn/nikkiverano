@@ -1,10 +1,14 @@
 ---
 layout: default
-img: dog.png
+img: sign-places-travel-information_imac2015_front.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Ich übernehme die Arbeit
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+
+<h4 style="color: #526FFF">Ich mache dir passende Vorschläge... <i class="fa fa-bed fa-lg" aria-hidden="true"></i></h4>
+> Wie wäre es denn mit diesem Hotel? 🌴 Es hat gerade von jungen Paaren sehr gute Bewertungen...
+
+
+<h4 style="color: #526FFF"><i class="fa fa-credit-card fa-2x" aria-hidden="true"></i>   ... und du buchst was dir gefällt. </h4>
+> Oh, ja. Super das nehmen wir! 😊

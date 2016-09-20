@@ -1,3 +1,9 @@
+.img-responsive {
+    filter: grayscale(100);
+}
+
+
+
 /*!
  * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.

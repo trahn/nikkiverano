@@ -1,8 +1,18 @@
 ---
 layout: default
-img: ipad.png
+img: iphone5s_gold_portrait.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Bequem per Facebook Messenger
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+<h4 style="color: #526FFF">Schreib mich einfach an...  <i class="fa fa-comment-o fa-2x" aria-hidden="true"></i></h4>
+> Hey Niki, ich suche für meinen Freund und mich einen Strandurlaub... 😊
+
+
+<h4 style="color: #526FFF"><i class="fa fa-comments-o fa-2x" aria-hidden="true"></i>  ... und wir schauen zusammen was du dir vorstellst.</h4>
+> Das hört sich gut an. 🏖 Wann und wie lange möchtet ihr denn weg? ...
+
+
+
+<!--   Ob Strandurlaub, Wochenendausflug, Party- oder Winterurlaub - in Deutschland, Europa oder der ganzen Welt: Per Chat schauen wir mit dir zusammen was du dir für deine nächste Reise vorstellst und machen uns dann für dich auf die Suche. Wir schlagen dir nur die Angebote vor, bei denen wir denken, dass sie genau zu deinen Wünschen passen. -->
