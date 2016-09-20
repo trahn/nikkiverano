@@ -6,4 +6,4 @@ title: Und du geniesst deinen Urlaub
 description: |
 ---
 
-Ohne tagelange Suche und Planung kannst du deinen nächsten Urlaub geniessen... <i class="fa fa-plane fa-2x" aria-hidden="true"></i>
+Ohne tagelange Suche und Planung kannst du deinen nächsten Urlaub geniessen... <i style="color: #526FFF" class="fa fa-plane fa-2x" aria-hidden="true"></i>
