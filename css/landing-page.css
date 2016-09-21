@@ -2,6 +2,13 @@
     filter: grayscale(100);
 }
 
+.btn-default {
+    color: inherit;
+    background-color: #526FFF;
+    border-color: inherit;
+}
+
+
 
 
 /*!

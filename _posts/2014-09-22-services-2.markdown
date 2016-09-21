@@ -10,5 +10,5 @@ description: |
 > Wie wäre es denn mit diesem Hotel? 🌴 Es hat gerade von jungen Paaren sehr gute Bewertungen...
 
 
-<h4 style="color: #526FFF"><i class="fa fa-credit-card fa-2x" aria-hidden="true"></i>   ... und du buchst was dir gefällt. </h4>
+<h4 style="color: #526FFF"><i class="fa fa-credit-card fa-2x" aria-hidden="true"></i>   ... du buchst was dir gefällt. </h4>
 > Oh, ja. Super das nehmen wir! 😊
