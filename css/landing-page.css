@@ -3,9 +3,9 @@
 }
 
 .btn-default {
-    color: inherit;
-    background-color: #526FFF;
-    border-color: inherit;
+    color: inherit !important;
+    background-color: #526FFF !important;
+    border-color: inherit !important;
 }
 
 
